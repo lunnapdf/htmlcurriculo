@@ -1,0 +1,19 @@
+@charset "UTF-8";
+@import "https://fonts.googleapis.com/css?family=Noto+Serif";
+
+#imagem1{
+    width: 150px;
+    height: 150px;
+}
+
+body{
+    /*background-image: url(../img/lunna.jpeg); */
+    
+    background-color:aliceblue ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: inherit;
+    line-height: 1.6;
+    padding: 20px;
+    margin-top: auto;
+    margin-inline-start: 50px;
+}
