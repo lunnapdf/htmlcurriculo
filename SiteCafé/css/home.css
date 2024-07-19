@@ -1,0 +1,24 @@
+@charset "utf-8";
+@import "https://fonts.googleapis.com/css?family=Noto+Serif";
+
+p {
+    text-align: justify;
+    text-indent: 50px;
+}
+
+div#noticiaPrincipal aside{
+    box-shadow: 1px 1px 10px;
+    background-color: white;
+    width: 800px;
+    position: absolute;
+    right: 5px;
+    padding: 20px;
+    margin-top: 5px;
+
+}
+
+div#noticiaPrincipal figure img{
+    width: 400px;
+    box-shadow: 1px 1px 4px black;
+    margin-top: 50px;
+}
